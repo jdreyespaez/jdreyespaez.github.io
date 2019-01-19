@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/ja/categories/</loc>
+    <loc>https://jdreyespaez.github.io/ja/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://jdreyespaez.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/categories/"
+                href="https://jdreyespaez.github.io/ja/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ja/tags/</loc>
+    <loc>https://jdreyespaez.github.io/ja/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://jdreyespaez.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/tags/"
+                href="https://jdreyespaez.github.io/ja/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ja/</loc>
+    <loc>https://jdreyespaez.github.io/ja/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://jdreyespaez.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/"
+                href="https://jdreyespaez.github.io/ja/"
                 />
   </url>
   
