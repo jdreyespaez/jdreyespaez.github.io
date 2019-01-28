@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jdreyespaez.github.io/projects/react-native-reusable-emoji-buttons/</loc>
+    <lastmod>2019-01-27T21:19:43-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jdreyespaez.github.io/about/about-me/</loc>
     <lastmod>2019-01-19T06:21:40-05:00</lastmod>
   </url>
@@ -30,7 +35,7 @@
   
   <url>
     <loc>https://jdreyespaez.github.io/</loc>
-    <lastmod>2019-01-19T06:21:40-05:00</lastmod>
+    <lastmod>2019-01-27T21:19:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,7 +47,7 @@
   
   <url>
     <loc>https://jdreyespaez.github.io/projects/</loc>
-    <lastmod>2019-01-19T06:16:58-05:00</lastmod>
+    <lastmod>2019-01-27T21:19:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   

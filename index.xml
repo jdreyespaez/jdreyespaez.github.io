@@ -6,10 +6,19 @@
     <description>Recent content on Juan David Reyes Páez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Jan 2019 06:21:40 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 21:19:43 -0500</lastBuildDate>
     
 	<atom:link href="https://jdreyespaez.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>React Native Reusable Emoji Buttons</title>
+      <link>https://jdreyespaez.github.io/projects/react-native-reusable-emoji-buttons/</link>
+      <pubDate>Sun, 27 Jan 2019 21:19:43 -0500</pubDate>
+      
+      <guid>https://jdreyespaez.github.io/projects/react-native-reusable-emoji-buttons/</guid>
+      <description>Este proyecto permite usar botones resuables con un emoji adentro en React Native.</description>
+    </item>
     
     <item>
       <title>About Me</title>
